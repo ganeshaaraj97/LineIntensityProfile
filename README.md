@@ -19,3 +19,6 @@ The functionality of the extension is described below
 3. A plot is created to comapre the intensity variations between two input images with respect to the common line drawn by the user.
 
 Note:- The results of this extension can be understood more through the images given in this repository
+
+
+REFERENCE:- https://docs.google.com/presentation/d/1JXIfs0rAM7DwZAho57Jqz14MRn2BIMrjB17Uj_7Yztc/htmlpresent
